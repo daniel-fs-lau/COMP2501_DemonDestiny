@@ -1,0 +1,2 @@
+Area** areas;
+Area** getAreas();
