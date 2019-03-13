@@ -1,7 +1,7 @@
 # Authors
 Daniel Lau, Jeremy DenHartogh
 
-## Two Brothers (April 2016 Semester-long project submission)
+## [Demon Destiny] (April 2016 Semester-long project submission)
 COMP2501 Introduction to Game Development
 Received a grade of 100%
 
